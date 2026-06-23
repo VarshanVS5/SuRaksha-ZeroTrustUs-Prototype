@@ -1,0 +1,11 @@
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore local virtual environments
+.venv/
+venv/
+env/
+
+# Ignore local database states if you want a fresh setup for your friend
+# mock_production.db

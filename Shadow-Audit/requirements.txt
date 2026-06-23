@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain-community
+langchain-core
+langchain-ollama
+sqlalchemy
+httpx
+pydantic

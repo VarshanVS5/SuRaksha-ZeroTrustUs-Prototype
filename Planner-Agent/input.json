@@ -1,0 +1,24 @@
+{
+"document_id": "RBI_CIRCULAR1",
+
+"impact_delta_matrix":[
+{
+"internal_policy_affected": "Global Bank Customer Grievance Policy v3",
+"regulatory_mandate": "Priority Sector Lending (PSL) target and Multi-Category Coverage for Government-Guaranteed Security Receipts (SRs)",
+"current_internal_status": "Semi-automated complaint workflow",
+"conflict_severity": "MEDIUM"
+},
+{
+"internal_policy_affected": "Global Bank Account Aggregator Governance Policy v1",
+"regulatory_mandate": "Enhanced Digital Payments Awareness Week (DPAW) initiatives for cross-border transactions",
+"current_internal_status": "Legacy compliance framework active",
+"conflict_severity": "LOW"
+},
+{
+"internal_policy_affected": "Global Bank Information Security Policy v2",
+"regulatory_mandate": "Stronger capital discipline for Government-Guaranteed SRs and enhanced encryption standards",
+"current_internal_status": "Existing infrastructure unchanged",
+"conflict_severity": "MEDIUM"
+}
+]
+}
